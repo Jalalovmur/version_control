@@ -6,6 +6,11 @@
 git init
 ```
 
+## Копируем репозиторий с GitHub
+```sh
+git clone "url"
+```
+
 ## Статус репозитория
 
 ```sh
@@ -23,4 +28,4 @@ git push
 git pull
 ```
 
-
+## 
